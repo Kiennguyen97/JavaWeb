@@ -100,7 +100,6 @@
                                 <div class="info-wraper"> <p class="name"><%=novels.get(i).getName() %> </p>
                                     <p class="book-info"><b>Tác giả:<br></b><%=novels.get(i).getAuthor()%><b><br>Rating:<br></b><%=novels.get(i).getRating()%></p>
                                 </div>
-                                
                             </a>
                         </div>
                         <%}%>
